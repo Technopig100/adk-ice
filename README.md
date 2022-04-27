@@ -43,8 +43,3 @@ doing so.
 Ice was originally written for Python 2.6.x and GTK+2. For
 version 4.0.0 in April 2014 it was ported to Python 3.x.x
 and GTK+3.
-
-## Contact details
-Thank you for your interest in Ice. If you wish to contact
-us for any reason, please do so via the Peppermint Linux OS
-Forum: https://forum.peppermintos.com/
